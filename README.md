@@ -1,8 +1,7 @@
 # Hi, I'm Mafu! 👋
 
 🌍 **Location:** Johannesburg, South Africa  
-💼 **About Me:**  
-I'm a full stack developer.
+💼 **About Me:** I'm a full stack developer.
 
 ---
 
