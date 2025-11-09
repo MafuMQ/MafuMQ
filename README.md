@@ -2,7 +2,7 @@
 
 🌍 **Location:** Johannesburg, South Africa  
 💼 **About Me:**  
-I'm a passionate developer focused on creating dynamic web applications using modern frameworks and tools. I love blending creativity with technology to build cool things and solve interesting problems.
+I'm a full stack developer.
 
 ---
 
@@ -52,7 +52,6 @@ Check out my projects and experience at [my portfolio](https://portfolio-react-v
 ## 🗂️ Projects
 
 Visit my repositories to explore web apps, utilities, and open-source tools I’ve built or contributed to!  
-*(Pinned/featured project links here once repos are known—add after reviewing your top projects.)*
 
 ---
 
